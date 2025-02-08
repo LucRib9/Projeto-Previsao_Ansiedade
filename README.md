@@ -39,6 +39,6 @@ Lucas Ribeiro
 
 
 ## Fontes de inspiração
-* [Anxiety-Attack-Factors] (https://www.kaggle.com/datasets/ashaychoudhary/anxiety-attack-factors-symptoms-and-severity/data)
+* [Anxiety-Attack-Factors](https://www.kaggle.com/datasets/ashaychoudhary/anxiety-attack-factors-symptoms-and-severity/data)
 
 
