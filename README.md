@@ -14,16 +14,15 @@ https://projeto-previsao-ansiedade.onrender.com/
 
 ### Dependências
 
-* O código deste projeto pode ser lido e executado em qualquer sistema operacional, desde que tenha uma editor de códigos que reconheça a linguagem python
-  (tal como Visual Studio Code), um software capaz de executar o código no formato py (por exemplo o Git Bash) e um leitor de planilhas no formato csv
-  (pode utilizar o libre office).
+* O código deste projeto pode ser lido e executado em qualquer sistema operacional, desde que tenha uma editor de códigos que reconheça a linguagem python (tal como Visual Studio Code), e um leitor de planilhas no formato csv (pode utilizar o libre office).
+* Também foi montado um notebook (arquivo ipynb) para visualização do projeto. O arquivo também se encontra nesta pasta
 * Os pacotes necessários para rodar o código são:
-- pandas==2.2.0
-- seaborn==0.13.1
-- streamlit==1.30.0
-- XlsxWriter==3.1.9
-- matplotlib==3.8.2
-- protobuf==4.25.2
+-matplotlib==3.7.5
+-numpy==1.26.4
+-pandas==2.1.4
+-seaborn==0.13.1
+-scikit-learn==1.4.2
+-streamlit==1.30.0
 o que pode ser confirmado no arquivo requirements.txt.
 
 
