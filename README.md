@@ -46,9 +46,10 @@ https://projeto-previsao-ansiedade.onrender.com/
 o que pode ser confirmado no arquivo requirements.txt.
 
 ## Autor
+
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-Lucas Ribeiro
-[@LucasRibeiro](www.linkedin.com/in/lucas-data-science)
+
+Lucas Ribeiro [@LucasRibeiro](www.linkedin.com/in/lucas-data-science)
 
 
 ## Coleta de dados
