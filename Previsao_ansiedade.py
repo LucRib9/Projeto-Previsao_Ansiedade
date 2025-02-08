@@ -148,17 +148,7 @@ def main():
     # Analise Bivariada     
     st.write('## Análise Descritiva Bivariada')
 
-    # Analise de variaveis quantitativas    
-    st.write('### Matriz de Dispersão')
-    # Função que imprime a matriz de dispersao
-    @st.cache_data
-    def dispersao(dados):
-        st.pyplot(sns.pairplot(dados))
-        
-    # Imprime a matriz de dispersão com as variáveis quantitativas
-    disp = df[quant].drop(columns='ID')
-    dispersao(disp)
-    
+    # Analise de variaveis quantitativas 
     st.write('### Matriz de Correlação')
     # Função que imprime a matriz de correlação
     @st.cache_data
