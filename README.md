@@ -7,28 +7,36 @@ machine learning, é esperado prevenir que as pessoas tenham crises fortes.
 
 Os parâmetros a serem considerados neste projeto são:
 
-* Age (Idade)   
-* Gender (Gênero) 
-* Occupation (Profissão) 
-* Sleep Hours (Horas de Sono)
-* Physical Activity (hrs/week) (Quantidade de horas de atividade física semanal) 
-* Caffeine Intake (mg/day) (Quantidade de cafeína diária)
-* Alcohol Consumption (drinks/week) (Consumo de álcool semanal)
-* Smoking (Informa se a pessoa fuma) 
-* Family History of Anxiety (Histórico familiar de ansiedade) 
-* Stress Level (1-10) (Nível de Stress do paciente)
-* Heart Rate (bpm during attack) (Palpitações durante a crise)
-* Breathing Rate (breaths/min) (Taxa de respiração durante a crise) 
-* Sweating Level (1-5) (Nível de suor)
-* Dizziness (Tontura durante a crise)
-* Medication (Se a pessoa toma medicamentos para a ansiedade)
-* Therapy Sessions (per month) (Número de sessoes de terapia mensais)
-* Recent Major Life Event (Informa se houve algum evento recente traumático) 
-* Diet Quality (1-10) (Qualidade da dieta da pessoa)
-* Severity of Anxiety Attack (1-10) (Grau de severidade da crise de ansiedade)
+- Age (Idade)   
+- Gender (Gênero) 
+- Occupation (Profissão) 
+- Sleep Hours (Horas de Sono)
+- Physical Activity (hrs/week) (Quantidade de horas de atividade física semanal) 
+- Caffeine Intake (mg/day) (Quantidade de cafeína diária)
+- Alcohol Consumption (drinks/week) (Consumo de álcool semanal)
+- Smoking (Informa se a pessoa fuma) 
+- Family History of Anxiety (Histórico familiar de ansiedade) 
+- Stress Level (1-10) (Nível de Stress do paciente)
+- Heart Rate (bpm during attack) (Palpitações durante a crise)
+- Breathing Rate (breaths/min) (Taxa de respiração durante a crise) 
+- Sweating Level (1-5) (Nível de suor)
+- Dizziness (Tontura durante a crise)
+- Medication (Se a pessoa toma medicamentos para a ansiedade)
+- Therapy Sessions (per month) (Número de sessoes de terapia mensais)
+- Recent Major Life Event (Informa se houve algum evento recente traumático) 
+- Diet Quality (1-10) (Qualidade da dieta da pessoa)
+- Severity of Anxiety Attack (1-10) (Grau de severidade da crise de ansiedade)
+
+### Modelagem
+
+Foi realizada a limpeza dos dados obtidos, removendo outliers e dados faltantes. Após isso, foi utilizada a regressão logística calcular o Grau da crise de ansiedade de acordo com todas as variáveis explicativas mencionadas acima. Infelizmente, todas as variáveis apresetaram distribuiçõe uniformes, de forma que quase não houvesse correlação entre elas e a variável resposta. Consequentemente, a acurácia do ajuste foi próxima a apenas 10%.
+
+### Conclusões
+
+Apesar da limpeza de dados e da modelagem, os valores preditos foram pouco condizentes com os valores originais do grau da crise de ansiedade. Possivelmente, os dados foram gerados aleatóriamente ao invés de ter sido obtido com pessoas reais, impossibilitando que fosse feita uma previsão plausível.
 
 
-### Link para a aplicação (LIVE)
+### Visualização do Projeto
 https://projeto-previsao-ansiedade.onrender.com/
 
 
