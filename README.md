@@ -7,25 +7,25 @@ machine learning, é esperado prevenir que as pessoas tenham crises fortes.
 
 Os parâmetros a serem considerados neste projeto são:
 
-|Age| Idade |  
-|Gender | Gênero| 
-|Occupation | Profissão| 
-|Sleep Hours | Horas de Sono|
-| Physical Activity (hrs/week)| Quantidade de horas de atividade física semanal | 
-|Caffeine Intake (mg/day) | Quantidade de cafeína diária |
-|Alcohol Consumption (drinks/week) | Consumo de álcool semanal|
-| Smoking| Informa se a pessoa Fuma| 
-|Family History of Anxiety | Histórico familiar de ansiedade| 
-|Stress Level (1-10) | Nível de Stress do paciente|
-|Heart Rate (bpm during attack) | Palpitações durante a crise|
-| Breathing Rate (breaths/min)| Taxa de respiração durante a crise | 
-| Sweating Level (1-5)| Nível de suor|
-|Dizziness | Tontura durante a crise|
-|Medication | Se a pessoa toma medicamentos para a ansiedade|
-|Therapy Sessions (per month) | Número de sessoes de terapia mensais |
-|Recent Major Life Event | Informa se houve algum evento recente traumático | 
-|Diet Quality (1-10) | Qualidade da dieta da pessoa |
-|Severity of Anxiety Attack (1-10) | Grau de severidade da crise de ansiedade|
+* Age (Idade)   
+* Gender (Gênero) 
+* Occupation (Profissão) 
+* Sleep Hours (Horas de Sono)
+* Physical Activity (hrs/week) (Quantidade de horas de atividade física semanal) 
+* Caffeine Intake (mg/day) (Quantidade de cafeína diária)
+* Alcohol Consumption (drinks/week) (Consumo de álcool semanal)
+* Smoking (Informa se a pessoa fuma) 
+* Family History of Anxiety (Histórico familiar de ansiedade) 
+* Stress Level (1-10) (Nível de Stress do paciente)
+* Heart Rate (bpm during attack) (Palpitações durante a crise)
+* Breathing Rate (breaths/min) (Taxa de respiração durante a crise) 
+* Sweating Level (1-5) (Nível de suor)
+* Dizziness (Tontura durante a crise)
+* Medication (Se a pessoa toma medicamentos para a ansiedade)
+* Therapy Sessions (per month) (Número de sessoes de terapia mensais)
+* Recent Major Life Event (Informa se houve algum evento recente traumático) 
+* Diet Quality (1-10) (Qualidade da dieta da pessoa)
+* Severity of Anxiety Attack (1-10) (Grau de severidade da crise de ansiedade)
 
 
 ### Link para a aplicação (LIVE)
